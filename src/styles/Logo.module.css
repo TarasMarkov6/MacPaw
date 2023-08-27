@@ -1,0 +1,10 @@
+.logo_container {
+    cursor: pointer;
+	display: flex;
+	align-items: end;
+}
+.logo_image {
+	width: 24px;
+	height: 24px;
+	margin-right: 5px;
+}

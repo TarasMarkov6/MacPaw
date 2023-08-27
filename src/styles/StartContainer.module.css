@@ -1,0 +1,29 @@
+.start_container {
+	margin-top: 80px;
+}
+.hi_text {
+	color: #1D1D1D;
+	font-family: Jost;
+	font-size: 44px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 58px;
+}
+.welcome_text {
+	margin-top: 10px;
+	color: #8C8C8C;
+	font-family: Jost;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+.start_text {
+	margin-top: 60px;
+	color: #1D1D1D;
+	font-family: Jost;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+}
